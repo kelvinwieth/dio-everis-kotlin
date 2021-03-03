@@ -1,6 +1,5 @@
-// Criar uma calculadora que dado dois valore Float? e um número correspondente a operação (constante)
+// Criar uma calculadora que dado dois valores Float? e um número correspondente a operação (constante),
 // retorne e imprima o resultado como Float ou uma mensagem de erro caso um dos valores seja nulo.
-
 
 const val OPERATION:Int = 1
 
